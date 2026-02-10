@@ -27,20 +27,9 @@ Outils de developpement : Maven, VS Code, IntelliJ IDEA.
 
 Collaboration : Git et GitHub pour la gestion de versions et la documentation.
 
-PROJETS PRINCIPAUX
+PROJET PRINCIPAL
 
-Projet 1 : Gestionnaire de Contacts (Java et MySQL)
-Application complete permettant la gestion de contacts avec stockage en base de donnees relationnelle.
-
-Conception et modelisation de bases de donnees relationnelles.
-
-Programmation orientee objet avancee en Java.
-
-Implementation de connexions JDBC et requetes SQL pour le traitement des informations.
-
-Validation rigoureuse des donnees et gestion des erreurs metier.
-
-Projet 2 : Systeme d Inscription et Connexion (JavaFX et SQL)
+Projet: Systeme d Inscription et Connexion (JavaFX et SQL)
 Developpement complet d un module d authentification securise.
 
 Conception des interfaces graphiques avec Scene Builder.
