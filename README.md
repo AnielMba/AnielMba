@@ -1,4 +1,4 @@
-Salut, je suis ANIEL
+Slut, je suis ANIEL
 Etudiant en Science des Donnees Appliquees
 
 PRESENTATION
@@ -25,20 +25,36 @@ JavaFX et Scene Builder : Developpement d interfaces graphiques interactives.
 
 Outils de developpement : Maven, VS Code, IntelliJ IDEA.
 
-Collaboration : Git et GitHub pour la gestion de versions et la documentation.
+Collaboration : Git et GitHub pour la gestion des versions et la documentation.
 
-PROJET PRINCIPAL
+PROJET DE GROUPE : SYSTEME DE GESTION DE BILLETS DE BUS
 
-Projet: Systeme d Inscription et Connexion (JavaFX et SQL)
-Developpement complet d un module d authentification securise.
+Lien vers le projet complet (Depot principal) :
+https://github.com/ahossanmarc/projetjavacite
 
-Conception des interfaces graphiques avec Scene Builder.
+MA CONTRIBUTION SPECIFIQUE : MODULE D INSCRIPTION ET CONNEXION
 
-Developpement des controleurs JavaFX et gestion de la logique applicative.
+Dans le cadre de ce projet collaboratif, j ai realise le developpement complet du module d authentification securise (Vues et Controleurs).
 
-Verification de l unicite et du format des donnees utilisateurs.
+Etape 1 : Conception Graphique
 
-Mise en place d une authentification securisee avec messages d erreur et redirections.
+Creation des interfaces utilisateur pour la connexion et l inscription avec Scene Builder.
+
+Mise en place d une interface fluide sous JavaFX.
+
+Etape 2 : Architecture et Gestion
+
+Initialisation du projet avec Maven pour la gestion des modules et des dependances.
+
+Configuration de la liaison entre l application et la base de donnees SQL.
+
+Etape 3 : Logique Applicative et Securite
+
+Validation des donnees : Verification du bon formatage des courriels et controle de l unicite en base de donnees pour eviter les doublons.
+
+Gestion des inscriptions : Enregistrement securise des nouveaux utilisateurs ou affichage de messages d erreur informatifs.
+
+Authentification : Verification des identifiants et basculement automatique vers l ecran de reservation apres validation.
 
 VALEURS ET APPROCHE
 
@@ -46,9 +62,9 @@ Mon travail repose sur la transformation de donnees brutes en outils d aide a la
 
 COORDONNEES ET CONTACT
 
-Profil GitHub : https://github.com/AnielMba
+Profil GitHub personnel : https://github.com/AnielMba
 
-Email : fotsinganiel@yahoo.com
+Courriel : fotsinganiel@yahoo.com
 
 Telephone : 514-796-5897
 
