@@ -1,50 +1,66 @@
-Bonjour, je suis ANIEL
-Étudiant en Science des Données Appliquées
+Salut, je suis ANIEL
+Etudiant en Science des Donnees Appliquees
 
-Passionné par l’analyse de données, la programmation et l’automatisation, je conçois des solutions efficaces pour transformer des données complexes en informations claires et exploitables. Mon objectif est d’apporter une réelle valeur ajoutée à travers des analyses pertinentes, des visualisations interactives et des applications performantes.
+PRESENTATION
 
-Compétences Techniques
-Langages de programmation & Analyse
+Je suis un etudiant en Science des Donnees Appliquees passionne par l analyse, la programmation et l automatisation. Je developpe des solutions pour transformer des donnees complexes en informations exploitables. Mon objectif est de concevoir des applications fiables, performantes et orientees donnees, avec un accent particulier sur la qualite, la securite et l experience utilisateur.
 
-Python — Analyse de données, automatisation, nettoyage et visualisation.
+COMPETENCES TECHNIQUES
 
-Java — Programmation orientée objet, développement d’applications et connexion aux bases de données (JDBC).
+Langages de programmation et Analyse
 
-R — Analyses statistiques, modélisation, régression et analyse exploratoire.
+Python : Analyse de donnees, automatisation, nettoyage et visualisation.
 
-Outils & Technologies
+Java : Programmation orientee objet, developpement d applications et connexion JDBC.
 
-SQL (MySQL / PostgreSQL) — Conception de bases de données, requêtes avancées, procédures stockées.
+R : Analyses statistiques, modelisation, regression et analyse exploratoire.
 
-Power BI — Création de tableaux de bord interactifs, reporting et visualisation de données.
+Outils et Technologies
 
-VS Code & IntelliJ IDEA — Environnements de développement.
+SQL (MySQL, PostgreSQL) : Conception de bases de donnees, requetes avancees et procedures stockees.
 
-Git & GitHub — Gestion de versions, collaboration et documentation de projets.
+Power BI : Creation de tableaux de bord interactifs et reporting decisionnel.
 
-Projets Principaux
-Gestionnaire de Contacts — Java & MySQL
+JavaFX et Scene Builder : Developpement d interfaces graphiques interactives.
 
-Code source : 
+Outils de developpement : Maven, VS Code, IntelliJ IDEA.
 
-Application complète permettant la gestion de contacts avec une base de données relationnelle. Ce projet met en valeur mes compétences en développement logiciel, en modélisation de données et en gestion des interactions avec une base SQL.
+Collaboration : Git et GitHub pour la gestion de versions et la documentation.
 
-Compétences démontrées :
+PROJETS PRINCIPAUX
 
-Conception et modélisation de bases de données
+Projet 1 : Gestionnaire de Contacts (Java et MySQL)
+Application complete permettant la gestion de contacts avec stockage en base de donnees relationnelle.
 
-Programmation orientée objet en Java
+Conception et modelisation de bases de donnees relationnelles.
 
-Connexion JDBC
+Programmation orientee objet avancee en Java.
 
-Requêtes SQL avancées
+Implementation de connexions JDBC et requetes SQL pour le traitement des informations.
 
-Validation des données et gestion des erreurs
+Validation rigoureuse des donnees et gestion des erreurs metier.
 
-Statistiques GitHub
+Projet 2 : Systeme d Inscription et Connexion (JavaFX et SQL)
+Developpement complet d un module d authentification securise.
 
-Me contacter
+Conception des interfaces graphiques avec Scene Builder.
 
-Numéro : 5147965897
+Developpement des controleurs JavaFX et gestion de la logique applicative.
 
-Email professionnel : fotsinganiel@yahoo.com
+Verification de l unicite et du format des donnees utilisateurs.
+
+Mise en place d une authentification securisee avec messages d erreur et redirections.
+
+VALEURS ET APPROCHE
+
+Mon travail repose sur la transformation de donnees brutes en outils d aide a la decision. En combinant mes competences en developpement logiciel et en analyse statistique, je m assure que chaque solution est a la fois techniquement solide et utile pour l utilisateur final.
+
+COORDONNEES ET CONTACT
+
+Profil GitHub : https://github.com/AnielMba
+
+Email : fotsinganiel@yahoo.com
+
+Telephone : 514-796-5897
+
+Localisation : Montreal, Canada
